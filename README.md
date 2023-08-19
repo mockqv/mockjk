@@ -19,8 +19,6 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<br><br>
-
 <h3> Back-End </h3>
 
 <div>
@@ -32,8 +30,6 @@
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
-
-<br><br>
 
 <h3>Hosting</h3>
 
