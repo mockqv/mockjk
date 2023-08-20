@@ -1,6 +1,6 @@
 
 ### Welcome to my profile! 
-### I'm a fullstack developer, future reverse engineer.
+### I'm a fullstack dev, future reverse engineer.
 
 <br>
 
