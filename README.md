@@ -11,7 +11,7 @@
 - 🏦 I'm a Full Stack Developer from Brazil 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.jsx**, **.ts**, **.tsx**
-- 💬 Talk to me about TypeScript/JavaScript
+- 💬 Talk to me about programming in general
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
