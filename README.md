@@ -20,7 +20,7 @@ Feel free to reach out to me at **richardviniciusfs07@gmail.com** for collaborat
 
 ### 📊 GitHub Stats
 <div align="center">
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mockjk&theme=aura" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mockjk&theme=aura" alt="Repositories by Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mockjk&theme=aura" alt="Most Committed Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mockjk&theme=aura" alt="GitHub Stats" />
