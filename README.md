@@ -24,5 +24,5 @@ Feel free to reach out to me at **richardviniciusfs07@gmail.com** for collaborat
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mockjk&theme=aura" alt="Repositories by Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mockjk&theme=aura" alt="Most Committed Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mockjk&theme=aura" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mockjk&theme=aura&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mockjk&theme=aura&utcOffset=-3" alt="Productive Time" />
 </div>
