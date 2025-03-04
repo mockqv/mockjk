@@ -15,7 +15,7 @@ Feel free to reach out to me at **richardviniciusfs07@gmail.com** for collaborat
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,java,c,py,nextjs,react,nodejs,express,mongodb,postgres,tailwind,npm,git,github,postman,docker,stackoverflow,vscode,arch,neovim,supabase,firebase,discord,discordjs,discordbots,bash,linux,idea,md,php,powershell,redux,regex,tensorflow,windows,ubuntu,mysql,figma,angular,nextjs&perline=15" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,java,c,py,nextjs,react,nodejs,express,mongodb,postgres,tailwind,npm,git,github,postman,docker,stackoverflow,vscode,arch,neovim,supabase,firebase,discord,discordjs,discordbots,bash,linux,idea,md,php,powershell,redux,regex,tensorflow,windows,ubuntu,mysql,figma,angular,svg&perline=15" alt="Tech stack icons" />
 </p>
 
 ### 📊 GitHub Stats
