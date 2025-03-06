@@ -1,7 +1,7 @@
 <h3 align="center">A Passionate System Information Student & Aspiring Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mockjk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mockqv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### 🌱 Currently Learning
@@ -20,9 +20,9 @@ Feel free to reach out to me at **richardviniciusfs07@gmail.com** for collaborat
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mockjk&theme=aura" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mockjk&theme=aura" alt="Repositories by Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mockjk&theme=aura" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mockjk&theme=aura" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mockjk&theme=aura&utcOffset=-3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mockqv&theme=aura" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mockqv&theme=aura" alt="Repositories by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mockqv&theme=aura" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mockqv&theme=aura" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mockqv&theme=aura&utcOffset=-3" alt="Productive Time" />
 </div>
